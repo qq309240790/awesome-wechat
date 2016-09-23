@@ -1,11 +1,11 @@
 <h1>微信小程序小应用资源整理QQ群319651782欢迎加入交流</h1><br><br>
-开发文档<br>
+开发文档<br><br>
 <a target="_blank" href="http://wxopen.notedown.cn/">简易教程</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/devtools/devtools.html">开发者工具文档</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/api/">API 文档</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/component/">视图组件文档</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/qa/qa.html">常见问题</a><br><br>
-开发工具<br>
+开发工具<br><br>
 <a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">win版本0.9下载</a> 密码: jfb4 <br>
 <a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">mac版本0.9下载</a> 密码: 8tsi <br>
 <a target="_blank" href="http://pan.baidu.com/s/1i4SuK89">破解版下载</a> 密码: 8tsi     <br><br>
