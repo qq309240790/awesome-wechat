@@ -1,4 +1,5 @@
 <h1>微信小程序小应用资源整理QQ群319651782欢迎加入交流</h1><br><br>
+<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=56ed0e5e94555efe395cd7c9aa6a791c27ee130039d7bcabddfe8fe55533eb33"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="微信小程序开发交流群" title="微信小程序开发交流群"></a>
 开发文档<br><br>
 <a target="_blank" href="http://wxopen.notedown.cn/">简易教程</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/devtools/devtools.html">开发者工具文档</a><br>
