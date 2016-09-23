@@ -10,28 +10,24 @@
 开发工具<br><br>
 <a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">win版本0.9下载</a> 密码: jfb4 <br>
 <a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">mac版本0.9下载</a> 密码: 8tsi <br>
-<a target="_blank" href="http://pan.baidu.com/s/1i4SuK89">破解版下载</a> 密码: 8tsi     <br><br>
-Mac 测试可用，Windows 尚未测试   <br>
-1.查看『微信Web开发者工具』文件夹 <br>
-2.替换以下文件 <br>
-/Resources/app.nw/app/dist/components/create/createstep.js <br>
-/Resources/app.nw/app/dist/stores/projectStores.js <br>
-3.运行『微信Web开发者工具』 <br>
-4.创建项目 <br>
-5.退出『微信Web开发者工具』 <br>
-6.再次运行『微信Web开发者工具』 <br>
-7.打开刚刚创建的项目 <br>
-8.完成 <br><br>
+<a target="_blank" href="链接: https://pan.baidu.com/s/1mirXkd6 密码: z9qs">破解文件下载</a> 密码: 8tsi     <br><br>
 
-运行 Demo <br>
-
-1.运行『微信Web开发者工具』 <br>
-2.通过微信扫描二维码 <br>
-3.创建项目 <br>
-4.AppID：随便填 <br>
-5.项目名称：随便填 <br>
-6.本地开发目录：选择一个目录 <br>
-7.点击「添加项目」 <br><br>
+怎么在本地运行微信小程序项目<br><br>
+1.去官网下载0.7版本的开发者工具https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html,然后用微信扫码登录进去,然后点右上角的X关闭 <br>
+2.下载0.9版本的开发者工具直接覆盖0.7，安装完成不要运行
+<a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">win版本0.9下载</a> 密码: jfb4 <br>
+<a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">mac版本0.9下载</a> 密码: 8tsi <br>
+3.下载需要替换的破解文件win和mac都可以用 链接: https://pan.baidu.com/s/1mirXkd6 密码: z9qs
+替换这2个文件
+/package.nw/app.nw/app/dist/components/create/createstep.js <br>
+/package.nw/app.nw/app/dist/stores/projectStores.js <br>
+4.下载微信小程序demo   链接: https://pan.baidu.com/s/1hsLR3k4 密码: ihxe
+5.然后运行开发者工具
+6.AppID：随便填 <br>
+7.项目名称：随便填 <br>
+8.本地开发目录：选择下载好的demo <br>
+9.点击「添加项目」 <br><br>
+10.就可以完美运行了<br><br>
 
 可能遇到的问题 <br>
 
