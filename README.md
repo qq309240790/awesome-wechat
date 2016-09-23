@@ -8,15 +8,15 @@
 <a target="_blank" href="http://wxopen.notedown.cn/component/">视图组件文档</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/qa/qa.html">常见问题</a><br><br>
 开发工具<br><br>
-<a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">win版本0.9下载</a> 密码: jfb4 <br>
-<a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">mac版本0.9下载</a> 密码: 8tsi <br>
+<a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">mac版本0.9下载 </a> 密码: jfb4 <br>
+<a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">win版本0.9下载</a> 密码: 8tsi <br>
 <a target="_blank" href="https://pan.baidu.com/s/1mirXkd6 ">破解文件下载</a> 密码: z9qs     <br><br>
 
 怎么在本地运行微信小程序项目<br><br>
 1.去官网下载0.7版本的开发者工具 https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html 然后用微信扫码登录进去,然后点右上角的X关闭 <br>
 2.下载0.9版本的开发者工具直接覆盖0.7，安装完成不要运行 <br>
-<a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">win版本0.9下载</a> 密码: jfb4 <br>
-<a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">mac版本0.9下载</a> 密码: 8tsi <br>
+<a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">mac版本0.9下载 </a> 密码: jfb4 <br>
+<a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">win版本0.9下载</a> 密码: 8tsi <br>
 3.下载需要替换的破解文件win和mac都可以用 链接: https://pan.baidu.com/s/1mirXkd6 密码: z9qs <br>
 替换这2个文件 <br>
 /package.nw/app.nw/app/dist/components/create/createstep.js <br>
