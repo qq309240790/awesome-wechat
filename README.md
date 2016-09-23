@@ -1,12 +1,15 @@
+
 <h1>微信小程序小应用资源整理QQ群319651782欢迎加入交流</h1><br>
 <h1>资源不断更新中如果对您有用麻烦给个星</h1><br>
 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=56ed0e5e94555efe395cd7c9aa6a791c27ee130039d7bcabddfe8fe55533eb33"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="微信小程序开发交流群" title="微信小程序开发交流群"></a><br><br>
-<h3>开发文档</h3><br><br>
-<a target="_blank" href="http://wxopen.notedown.cn/">简易教程</a><br>
-<a target="_blank" href="http://wxopen.notedown.cn/devtools/devtools.html">开发者工具文档</a><br>
-<a target="_blank" href="http://wxopen.notedown.cn/api/">API 文档</a><br>
-<a target="_blank" href="http://wxopen.notedown.cn/component/">视图组件文档</a><br>
-<a target="_blank" href="http://wxopen.notedown.cn/qa/qa.html">常见问题</a><br><br>
+<h3>开发文档</h3><br>
+<ul>
+  <li><a target="_blank" href="http://wxopen.notedown.cn/">简易教程</a></li>
+  <li><a target="_blank" href="http://wxopen.notedown.cn/devtools/devtools.html">开发者工具文档</a><br></li>
+  <li><a target="_blank" href="http://wxopen.notedown.cn/api/">API 文档</a><br></li>
+  <li><a target="_blank" href="http://wxopen.notedown.cn/component/">视图组件文档</a><br></li>
+  <li><a target="_blank" href="http://wxopen.notedown.cn/qa/qa.html">常见问题</a><br><br></li>
+</ul>
 开发工具<br><br>
 <a target="_blank" href="http://pan.baidu.com/s/1eSBMmmm">mac版本0.9下载 </a> 密码: jfb4 <br>
 <a target="_blank" href="http://pan.baidu.com/s/1mi6QnqC">win版本0.9下载</a> 密码: 8tsi <br>
