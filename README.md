@@ -1,4 +1,4 @@
-<h1>微信小程序小应用资源汇总整理QQ群319651782欢迎加入交流学习</h1><br><br>
+<h1>微信小程序小应用资源整理QQ群319651782欢迎加入交流</h1><br><br>
 开发文档<br>
 <a target="_blank" href="http://wxopen.notedown.cn/">简易教程</a><br>
 <a target="_blank" href="http://wxopen.notedown.cn/devtools/devtools.html">开发者工具文档</a><br>
